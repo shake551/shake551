@@ -14,12 +14,11 @@
 ```text
 From: 12 August 2022 - To: 13 August 2022
 
-Total Time: 6 mins
+Total Time: 17 mins
 
-Python       4 mins          ███████████████████▓░░░░░   78.09 %
-Java         1 min           █████▒░░░░░░░░░░░░░░░░░░░   20.82 %
-C            0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.09 %
-ObjectiveC   0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Java         6 mins          ██████████░░░░░░░░░░░░░░░   39.64 %
+Python       4 mins          ███████░░░░░░░░░░░░░░░░░░   27.89 %
+Other        3 mins          █████░░░░░░░░░░░░░░░░░░░░   20.38 %
 ```
 
 <!--END_SECTION:waka-->
