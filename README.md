@@ -43,4 +43,11 @@ Other            11 hrs 42 mins  ███████████████�
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shake551&theme=darkhub&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
+<details>
+  <summary><b>📈&nbsp;&nbsp;Language&nbsp;/&nbsp;Framework stats</b></summary>
+  <br/>
+  <a href='https://profile.codersrank.io/user/shake551/'>
+    <img src='http://cr-skills-chart-widget.azurewebsites.net/api/api?username=shake551' width="800">
+  </a>
 
+</details>
