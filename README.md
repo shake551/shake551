@@ -13,10 +13,6 @@
 <!--START_SECTION:waka-->
 
 ```text
-From: 06 August 2022 - To: 13 August 2022
-
-Total Time: 6 hrs 45 mins
-
 Other            11 hrs 42 mins  █████████████████████▓░░░   86.59 %
 ```
 
