@@ -30,7 +30,7 @@ Other            11 hrs 42 mins  ███████████████�
       <img src="./profile-3d-contrib/profile-night-rainbow.svg">
     </td>
     <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shake551&theme=highcontrast" alt="shake551"> <img src="https://github-readme-stats.vercel.app/api?username=shake551&count_private=true&show_icons=true&theme=dark">
+      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shake551&theme=highcontrast" alt="shake551"> <img src="https://github-readme-stats.vercel.app/api?username=shake551&count_private=true&show_icons=true&theme=highcontrast">
     </td>
   </tr>
 </table>
