@@ -14,9 +14,9 @@
 ```text
 From: 12 August 2022 - To: 14 August 2022
 
-Total Time: 8 hrs 34 mins
+Total Time: 9 hrs 31 mins
 
-Other            13 hrs 30 mins  ██████████████████████░░░   88.14 %
+Other            13 hrs 37 mins  █████████████████████░░░░   83.65 %
 ```
 
 <!--END_SECTION:waka-->
