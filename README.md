@@ -9,6 +9,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shake551&theme=darkhub&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
+📊 **Weekly development breakdown**
 <!--START_SECTION:waka-->
 
 ```text
