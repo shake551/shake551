@@ -29,16 +29,9 @@ Other            11 hrs 42 mins  ███████████████�
 
 <!--END_SECTION:waka-->
 
-<table border="none">
-  <tr>
-    <td>
-      <img src="./profile-3d-contrib/profile-night-rainbow.svg">
-    </td>
-    <td>
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=shake551&theme=highcontrast" alt="shake551"> <img src="https://github-readme-stats.vercel.app/api?username=shake551&count_private=true&show_icons=true&theme=highcontrast">
-    </td>
-  </tr>
-</table>
+<img src="./profile-3d-contrib/profile-night-rainbow.svg" align="left" width="550">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=shake551&theme=highcontrast" alt="shake551" align="right" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=shake551&count_private=true&show_icons=true&theme=highcontrast" align="right" width="400">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=shake551&theme=darkhub&column=8)](https://github.com/ryo-ma/github-profile-trophy)
 
@@ -50,4 +43,3 @@ Other            11 hrs 42 mins  ███████████████�
   </a>
 
 </details>
-
