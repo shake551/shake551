@@ -17,3 +17,4 @@ jobs:
           SHOW_LINES_OF_CODE: True
           SHOW_PROJECTS: False
           SHOW_OS: False
+          SHOW_LOC_CHART: False
