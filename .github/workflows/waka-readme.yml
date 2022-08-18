@@ -18,3 +18,4 @@ jobs:
           SHOW_PROJECTS: False
           SHOW_OS: False
           SHOW_LOC_CHART: False
+          SHOW_TOTAL_CODE_TIME: False
