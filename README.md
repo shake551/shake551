@@ -18,7 +18,7 @@
 
 <br>
 
-<h3 align="left">📊Weekly development breakdown</h3>
+<h3 align="left">📊Weekly development breakdown:</h3>
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
@@ -91,6 +91,9 @@ Ruby                     3 repos             █░░░░░░░░░░�
 
  Last Updated on 18/08/2022 11:53:12 UTC
 <!--END_SECTION:waka-->
+
+
+<h3 align="left">🔥My Status:</h3>
 
 <p align="center">
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" align="center" width="550">
