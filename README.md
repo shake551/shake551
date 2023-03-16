@@ -12,7 +12,7 @@
 
 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="100" align="right">
 
-- 🌱 I’m currently learning **Go**, **Java**
+- 🌱 I’m currently learning **Go**, **Rust**
 
 - 👨‍💻 All of my projects are available at [https://shake551.github.io/portfolio/](https://shake551.github.io/portfolio/)
 
