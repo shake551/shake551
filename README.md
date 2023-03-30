@@ -28,7 +28,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 54.7 kB Used in GitHub's Storage 
+> 📦 54.5 kB Used in GitHub's Storage 
  > 
 > 🏆 547 Contributions in the Year 2023
  > 
@@ -90,7 +90,7 @@ Lua                      1 repo              ░░░░░░░░░░░�
 
 
 
- Last Updated on 30/03/2023 19:05:17 UTC
+ Last Updated on 30/03/2023 20:08:19 UTC
 <!--END_SECTION:waka-->
 
 
