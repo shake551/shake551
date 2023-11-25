@@ -23,7 +23,7 @@
 
 <h3 align="left">🛠️Languages and Tools:</h3>
 <h4 align="left">Programming Languages</h4>
-<img src="https://skillicons.dev/icons?i=go,java,lua,js,ts,c,cs,cpp,php,ruby,rust,py,md">
+<img src="https://skillicons.dev/icons?i=go,java,lua,js,ts,c,cs,cpp,php,ruby,rust,py">
 
 <h4 align="left">Frontend Development</h4>
 <img src="https://skillicons.dev/icons?i=nextjs,react,vue,html,css,bootstrap,pug,tailwind">
@@ -56,7 +56,7 @@
 <img src="https://skillicons.dev/icons?i=githubactions,jenkins,">
 
 <h4 align="left">Tools</h4>
-<img src="https://skillicons.dev/icons?i=github,git,postman,linux,prometheus,matlab,blender,xd,ai,">
+<img src="https://skillicons.dev/icons?i=github,git,postman,linux,prometheus,md,matlab,blender,xd,ai,">
 
 <br>
 
