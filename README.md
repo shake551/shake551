@@ -18,6 +18,8 @@
 
 - 📝 I regularly write articles on [https://zenn.dev/shake_sanma](https://zenn.dev/shake_sanma)
 
+- 🍏 I am distributing some apps on [https://apps.apple.com/jp/developer/hiroki-yamauchi/id1679157574](https://apps.apple.com/jp/developer/hiroki-yamauchi/id1679157574)
+
 
 <h3 align="left">🛠️Languages and Tools:</h3>
 <h4 align="left">Programming Languages</h4>
