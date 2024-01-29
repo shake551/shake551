@@ -64,7 +64,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 169.3 kB Used in GitHub's Storage 
+> 📦 169.4 kB Used in GitHub's Storage 
  > 
 > 🏆 95 Contributions in the Year 2024
  > 
@@ -124,7 +124,7 @@ TeX                      3 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 28/01/2024 00:33:52 UTC
+ Last Updated on 29/01/2024 00:31:41 UTC
 <!--END_SECTION:waka-->
 
 
