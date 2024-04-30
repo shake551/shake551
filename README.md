@@ -66,6 +66,8 @@
 
 > 📦 193.1 kB Used in GitHub's Storage 
  > 
+> 🏆 168 Contributions in the Year 2024
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 60 Public Repositories 
@@ -99,11 +101,10 @@ Sunday                   443 commits         ███░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-Go                       24 mins             ████████████████░░░░░░░░░   62.06 % 
-Terraform                14 mins             █████████░░░░░░░░░░░░░░░░   37.94 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   39 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +120,7 @@ TeX                      4 repos             █░░░░░░░░░░�
 
 
 
- Last Updated on 29/04/2024 00:33:11 UTC
+ Last Updated on 30/04/2024 00:31:45 UTC
 <!--END_SECTION:waka-->
 
 
