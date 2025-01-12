@@ -101,10 +101,11 @@ Sunday                   669 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               14 mins             ████████████████████████░   94.34 % 
+JSON                     0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   05.66 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   15 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +121,7 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 11/01/2025 00:49:06 UTC
+ Last Updated on 12/01/2025 00:53:44 UTC
 <!--END_SECTION:waka-->
 
 
