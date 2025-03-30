@@ -64,9 +64,7 @@
 <!--START_SECTION:waka-->
 **🐱 My GitHub Data** 
 
-> 📦 213.8 kB Used in GitHub's Storage 
- > 
-> 🏆 408 Contributions in the Year 2025
+> 📦 213.9 kB Used in GitHub's Storage 
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -101,10 +99,14 @@ Sunday                   751 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-No Activity Tracked This Week
+YAML                     20 mins             ███████████████░░░░░░░░░░   58.38 % 
+gitignore                9 mins              ███████░░░░░░░░░░░░░░░░░░   27.57 % 
+TypeScript               4 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.92 % 
+Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.61 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Neovim                   35 mins             █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -120,7 +122,7 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 29/03/2025 00:51:29 UTC
+ Last Updated on 30/03/2025 00:56:35 UTC
 <!--END_SECTION:waka-->
 
 
