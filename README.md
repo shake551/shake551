@@ -66,6 +66,8 @@
 
 > 📦 215.7 kB Used in GitHub's Storage 
  > 
+> 🏆 514 Contributions in the Year 2025
+ > 
 > 🚫 Not Opted to Hire
  > 
 > 📜 63 Public Repositories 
@@ -99,11 +101,10 @@ Sunday                   816 commits         █░░░░░░░░░░�
 🕑︎ Time Zone: Asia/Tokyo
 
 💬 Programming Languages: 
-JSON                     6 mins              █████████████░░░░░░░░░░░░   50.68 % 
-Dart                     6 mins              ████████████░░░░░░░░░░░░░   49.32 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Neovim                   12 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -119,7 +120,7 @@ Makefile                 2 repos             ░░░░░░░░░░░�
 
 
 
- Last Updated on 19/04/2025 00:52:27 UTC
+ Last Updated on 20/04/2025 00:58:54 UTC
 <!--END_SECTION:waka-->
 
 
